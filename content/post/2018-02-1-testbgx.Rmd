@@ -1,0 +1,15 @@
+---
+title: "Test bgx"
+author: "Nekya Crowders"
+date: 2018-02-01T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "Plot", "Blog", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# R Markdown
+
+This is my first blog, so hello!

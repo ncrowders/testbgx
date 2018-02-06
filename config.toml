@@ -4,7 +4,7 @@ relativeurls = true
 
 # You don't need to change this for Netlify deployment, but
 # it's still good practice to do so:
-baseurl = "http://www.example.com"
+baseurl = "/"
 # remember trailing / at end of baseurl
 languageCode = "en-us"
 

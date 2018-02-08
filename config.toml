@@ -9,7 +9,7 @@ baseurl = "/"
 languageCode = "en-us"
 
 # choose a good title for your site:
-title = "SublimeR Hugo"
+title = "Blakgenxce"
 
 # Enable comments by entering your Disqus shortname
 # (Sign up at https://disqus.com/):
@@ -17,14 +17,14 @@ title = "SublimeR Hugo"
 
 # Enable Google Analytics by entering your tracking code
 # googleAnalytics = ""
-paginate = 50
+paginate = 30
 theme = "sublimer-hugo"
 
 [permalinks]
 	post = "/:year/:month/:day/:slug"
 
 [params]
-	name = "Homer White"
+	name = "Nekya Crowders"
 	
 	# The following appears in the <meta> tag by default (unless
 	# overriden by description: "whatever you like" in YAML front-matter
@@ -89,7 +89,7 @@ theme = "sublimer-hugo"
 		url = "mailto:person@example.com"
 		
 		# replace "homerhanumat" with your github username:
-		github = "homerhanumat"
+		github = "ncrowders"
 		
 		# If you want to link to your FB page, provide your username here.
 		# (It's at the end of your FB page URL.)

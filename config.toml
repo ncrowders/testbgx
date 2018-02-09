@@ -18,7 +18,7 @@ title = "Blakgenxce"
 # Enable Google Analytics by entering your tracking code
 # googleAnalytics = ""
 paginate = 30
-theme = "sublimer-hugo"
+theme = "BluesNight"
 
 [permalinks]
 	post = "/:year/:month/:day/:slug"
@@ -54,8 +54,8 @@ theme = "sublimer-hugo"
 	custom_js  = []
 
 	# Links to newer/older blog posts
-	newer = "Newer"
-	older = "Older"
+	newer = "<--"
+	older = "-->"
   
   # This determines what appears on the 404 Error page:
 	pageNotFoundTitle = "Page not found"
@@ -63,10 +63,9 @@ theme = "sublimer-hugo"
 
 [params.offcanvas]
 	# Menu items
-	title = "Hello, I'm Jane Doe"
+	title = "Hello, I am Nekya Crowders"
 	bio = """\
-	      Here you can put a little information \
-	      about yourself.\
+	      I am a student at Georgetown college and this is a blog to my website Blakgenxce
 	      """
 	# Another biographical paragraph, if you like:
 	bio2 = ""

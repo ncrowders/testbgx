@@ -18,7 +18,7 @@ title = "Blakgenxce"
 # Enable Google Analytics by entering your tracking code
 # googleAnalytics = ""
 paginate = 30
-theme = "BluesNight"
+theme = "BluesNight-master-b033a63a4114f9bab54bbf49da585ed3ea91f36f"
 
 [permalinks]
 	post = "/:year/:month/:day/:slug"
